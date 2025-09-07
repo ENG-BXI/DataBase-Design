@@ -1,0 +1,59 @@
+🟢 المستوى الأول: بسيط (Small DB Projects)
+
+الهدف: تفهم العلاقات الأساسية 1:M و M:M
+
+أمثلة:
+
+نظام مكتبة (Books – Authors – Members – Borrowing).
+
+نظام صالة رياضية (Members – Trainers – Sessions – Subscriptions).
+
+نظام صيدلية صغير (Medicines – Categories – Sales – Customers).
+
+🟡 المستوى الثاني: متوسط (Medium DB Projects)
+
+الهدف: تبدأ تضيف تقارير + Workflow بسيط
+
+أمثلة:
+
+نظام مطعم (Menu – Orders – Customers – Bills – Employees).
+
+نظام مدرسة (Students – Teachers – Classes – Subjects – Exams).
+
+نظام شركة توصيل محلي (Drivers – Orders – Customers – Payments – Areas).
+
+🟠 المستوى الثالث: متقدم (Advanced DB Projects)
+
+الهدف: تتعامل مع بيانات أكثر وتشابك أكبر
+
+أمثلة:
+
+نظام مستشفى متوسط (Patients – Doctors – Appointments – Prescriptions – Lab Tests).
+
+نظام جامعة (Students – Courses – Professors – Exams – Grades – Fees).
+
+نظام حجز فنادق (Hotels – Rooms – Reservations – Guests – Payments – Reviews).
+
+🔴 المستوى الرابع: ضخم (Complex DB Projects)
+
+الهدف: Modules متعددة + تكامل داخلي
+
+أمثلة:
+
+نظام تجارة إلكترونية (Users – Products – Orders – Cart – Payments – Shipping – Returns – Reviews).
+
+نظام إدارة العقارات (Owners – Properties – Tenants – Contracts – Payments – Maintenance).
+
+نظام خطوط طيران (Flights – Passengers – Tickets – Crew – Airports – Baggage – Payments).
+
+🟣 المستوى الخامس: عملاق (Enterprise Systems)
+
+الهدف: Enterprise Modules + Integrations + Workflows معقدة جدًا
+
+أمثلة:
+
+نظام ERP (Finance – HR – Inventory – Projects – Manufacturing – Sales).
+
+نظام إدارة مستشفى متكامل (Patients – Doctors – Surgeries – Labs – Pharmacy – Insurance – Billing).
+
+نظام لوجستيات عالمي (Shipments – Containers – Routes – Customs – Tracking – Billing – Partners).
